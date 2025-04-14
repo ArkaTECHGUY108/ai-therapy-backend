@@ -1,0 +1,9 @@
+torch==2.0.1
+fastapi
+uvicorn
+transformers
+scikit-learn
+pandas
+numpy
+python-multipart
+aiofiles
